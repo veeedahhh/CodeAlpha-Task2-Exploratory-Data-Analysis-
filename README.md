@@ -4,10 +4,10 @@
 This task involved me exploring and understanding a dataset using Python.It involved me performing data cleaning, statistical analysis, and visualization on the datsets to uncover trends and patterns.
 
 ## Objectives of this Project:
-1.To explore data structure and summary statistics.
-2.To identify trends, patterns, and outliers.
-3.To test relationships between variables.
-4.And also to detect potential data quality issues.
+1. To explore data structure and summary statistics.
+2. To identify trends, patterns, and outliers.
+3. To test relationships between variables.
+4. And also to detect potential data quality issues.
 
 ## Tools & Libraries Used
 1. **Python 3**
